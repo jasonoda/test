@@ -1,6 +1,3 @@
 red
 yellow
 blue
-orange
-jon
-frank
